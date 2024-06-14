@@ -1,10 +1,16 @@
 import React from 'react'
 import Header from './components/Header'
 import NavBar from './components/NavBar'
+import Feed from './components/Feed'
+
 function App() {
   return (
     <>
-    <NavBar/>
+      <div className='font-segoe'>
+      {/*<NavBar/>*/}
+      {/*<Header/>*/}
+      { <Feed/> }
+      </div>
     </>
   )
 }

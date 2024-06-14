@@ -6,9 +6,15 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        'segoe': ['"Segoe UI"', 'sans-serif']
+      },
       fontSize: {
         '2xl-plus': '1.55rem',
       },
+      width: {
+        'md': '448px'
+      }
     },
   },
   plugins: [],
