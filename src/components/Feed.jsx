@@ -121,8 +121,8 @@ const CommentForm = () => {
                 <button className="flex-shrink-0 text-sm text-sky-400 hover:text-black py-1 px-2 rounded" type="button">
                     Post
                 </button>           
-    </div>
-    </form>
+            </div>
+        </form>
     )
 }
 export default Feed

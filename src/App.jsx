@@ -9,7 +9,7 @@ function App() {
       <div className='font-segoe'>
       {/*<NavBar/>*/}
       {/*<Header/>*/}
-      { <Feed/> }
+      {/*<Feed/>*/}
       </div>
     </>
   )
